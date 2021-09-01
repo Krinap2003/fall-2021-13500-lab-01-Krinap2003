@@ -1,11 +1,12 @@
 * Fall 2021 - Lab 01
 
-* Last name: 
-
-* First name: 
-
-* GitHub username: 
-
+* Last name: Patel 
+ Patel Patel Patel Patel
+* First name: Krina 
+ Krina Krina Krina
+ Krina
+* GitHub username: Krinap2003 
+ krinap2003 krinap2003 
 * Notes:
 
 
