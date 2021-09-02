@@ -2,7 +2,7 @@
   Author: Krina Patel                                                                                               
   Course: CSCI: 135                                                                                                 
   Instructor: Proffesor Mike                                                                                        
-  Assignment: Lab1 part 1    
+  Assignment: Lab1 part B    
 */
 #include <iostream>                                                                                                
 //using namespace std;
