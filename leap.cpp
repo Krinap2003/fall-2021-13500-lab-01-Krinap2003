@@ -8,7 +8,9 @@
 
 int main()
 {
-  int year;                                                                                                           std::cout<<"Enter year: ";                                                                                          std::cin>>year;
+  int year;  
+  std::cout<<"Enter year: ";     
+  std::cin>>year;
 
   if(year % 4 != 0)
     {
