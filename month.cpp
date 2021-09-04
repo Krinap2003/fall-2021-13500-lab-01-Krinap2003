@@ -1,7 +1,7 @@
 /*                                                                                                  
    Author: Krina Patel
    Course: CSCI: 135
-   Instructor: Proffesor Mike
+   Instructor: Proffesor Mike Zamansky
    Assignment: Lab1 part D
 */    
 #include <iostream> 
